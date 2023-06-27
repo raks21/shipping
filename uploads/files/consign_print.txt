@@ -1,0 +1,7176 @@
+                     202197722                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     ARYA VASTRALAYA / Ved       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           440012                
+                                      NAGPUR                
+ 
+      1                                                  
+
+
+
+|};cD;"VPL202197722";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197723                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     5TH AVENUE / ASHFAQUE       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           411001                
+                                      PUNE                  
+ 
+      2                                                  
+
+
+
+|};cD;"VPL202197723";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197711                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MALE HUB / Hemang Jay       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           380052                
+                                      AHMEDABAD             
+ 
+      3                                                  
+
+
+
+|};cD;"VPL202197711";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197712                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SREE PARIMALA ENTERPR       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           584101                
+                                      RAICHUR               
+ 
+      4                                                  
+
+
+
+|};cD;"VPL202197712";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197713                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     IN RETAIL & TRADING R       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           382481                
+                                      AHMEDABAD             
+ 
+      5                                                  
+
+
+
+|};cD;"VPL202197713";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197714                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SEWA RAM GOPAL DASS /       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           123401                
+                                      REWARI                
+ 
+      6                                                  
+
+
+
+|};cD;"VPL202197714";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197715                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SAMRA APPARELS PVT LT       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           442001                
+                                      WARDHA                
+ 
+      7                                                  
+
+
+
+|};cD;"VPL202197715";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197716                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     LALPOTU COLLECTION /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           431601                
+                                      PARBHANI              
+ 
+      8                                                  
+
+
+
+|};cD;"VPL202197716";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197717                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     RAMCHANDRA RANGNATH R       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           431514                
+                                      GANGAKHED             
+ 
+      9                                                  
+
+
+
+|};cD;"VPL202197717";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197718                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KRUSHNAM LIFESTYLE /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           384265                
+                                      PATAN                 
+ 
+      10                                                 
+
+
+
+|};cD;"VPL202197718";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197719                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GARODIA LIFE STYLE /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           854105                
+                                      KATIHAR               
+ 
+      11                                                 
+
+
+
+|};cD;"VPL202197719";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197720                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     NAYNA MATA SAREE CENT       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           228001                
+                                      SULTANPUR             
+ 
+      12                                                 
+
+
+
+|};cD;"VPL202197720";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197721                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     VED TEXTILES & APPARE       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           834001                
+                                      RANCHI                
+ 
+      13                                                 
+
+
+
+|};cD;"VPL202197721";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197724                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SUBHASH TERENE CENTRE       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           474001                
+                                      GWALIOR               
+ 
+      14                                                 
+
+
+
+|};cD;"VPL202197724";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197725                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     INDU CREATIONS / Shub       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           272175                
+                                      KHALILABAD            
+ 
+      15                                                 
+
+
+
+|};cD;"VPL202197725";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197726                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     NP RETAILS / Naveen K       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           136027                
+                                      KAITHAL               
+ 
+      16                                                 
+
+
+
+|};cD;"VPL202197726";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197727                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     BHAGWATI VASTRALAYA /       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           281403                
+                                      KOSI KALAN            
+ 
+      17                                                 
+
+
+
+|};cD;"VPL202197727";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197728                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PARIDHAN / Akhlaquar        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           800001                
+                                      PATNA                 
+ 
+      18                                                 
+
+
+
+|};cD;"VPL202197728";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197729                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MODERN SELECTION / Mo       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           210001                
+                                      BANDA                 
+ 
+      19                                                 
+
+
+
+|};cD;"VPL202197729";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197730                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KAAM FASHIONS / Ajay        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           201012                
+                                      GHAZIABAD             
+ 
+      20                                                 
+
+
+
+|};cD;"VPL202197730";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197731                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SKC'S TEXTILES / PRAV       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           624001                
+                                      DINDIGUL              
+ 
+      21                                                 
+
+
+
+|};cD;"VPL202197731";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197732                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     AAMOOL SHOP / Ashokbh       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           388001                
+                                      ANAND                 
+ 
+      22                                                 
+
+
+
+|};cD;"VPL202197732";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197733                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SALUJA SONS / Naresh        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           208012                
+                                      KANPUR                
+ 
+      23                                                 
+
+
+
+|};cD;"VPL202197733";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197734                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     AGGARWAL AGENCIES / P       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           110059                
+                                      NEW DELHI             
+ 
+      24                                                 
+
+
+
+|};cD;"VPL202197734";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197735                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     AMBICA CLOTH STORES /       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           590003                
+                                      BELGAUM               
+ 
+      25                                                 
+
+
+
+|};cD;"VPL202197735";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197816                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     L. K. BROS / Anwar Al       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           110092                
+                                      DELHI                 
+ 
+      26                                                 
+
+
+
+|};cD;"VPL202197816";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197817                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PARSVAPADMAVATHI / Na       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           560102                
+                                      BENGALURU             
+ 
+      27                                                 
+
+
+
+|};cD;"VPL202197817";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197818                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KRTI FASHIONS / RAVI        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           452010                
+                                      INDORE                
+ 
+      28                                                 
+
+
+
+|};cD;"VPL202197818";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197820                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHREE TEXTILE TRADERS       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           783301                
+                                      DHUBRI                
+ 
+      29                                                 
+
+
+
+|};cD;"VPL202197820";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197821                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     J.B. TEXTILES / Vishn       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           793001                
+                                      SHILLONG              
+ 
+      30                                                 
+
+
+
+|};cD;"VPL202197821";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197787                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GANGA JAMUNA CLOTH HO       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           282007                
+                                      AGRA                  
+ 
+      31                                                 
+
+
+
+|};cD;"VPL202197787";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197824                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     S.P. TEXTILE AGENCIES       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           793001                
+                                      SHILLONG              
+ 
+      32                                                 
+
+
+
+|};cD;"VPL202197824";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197825                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHANKARDEV COMMERCIAL       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           781007                
+                                      GUWAHATI              
+ 
+      33                                                 
+
+
+
+|};cD;"VPL202197825";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197826                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     HIND READYMADE STORES       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           760001                
+                                      BERHAMPUR             
+ 
+      34                                                 
+
+
+
+|};cD;"VPL202197826";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197827                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     RAJHANS / Pradeep Pan       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           753001                
+                                      CUTTACK               
+ 
+      35                                                 
+
+
+
+|};cD;"VPL202197827";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197828                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MEHTA CLOTH CENTRE /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           452007                
+                                      INDORE                
+ 
+      36                                                 
+
+
+
+|};cD;"VPL202197828";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197829                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MITTAL CLOTH STORES /       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           476229                
+                                      SABALGARH             
+ 
+      37                                                 
+
+
+
+|};cD;"VPL202197829";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197811                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     BRIGHT TAILORS / Sanj       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           221001                
+                                      VARANASI              
+ 
+      38                                                 
+
+
+
+|};cD;"VPL202197811";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197812                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     ARS TEXTILES / Pranav       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           560064                
+                                      BENGALURU             
+ 
+      39                                                 
+
+
+
+|};cD;"VPL202197812";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197813                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     CHAWLA TRADING COMPAN       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           247001                
+                                      SAHARANPUR            
+ 
+      40                                                 
+
+
+
+|};cD;"VPL202197813";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197814                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     B. P. KALE & SONS / S       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           413304                
+                                      PANDHARPUR            
+ 
+      41                                                 
+
+
+
+|};cD;"VPL202197814";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197815                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     JAPJEE ENTERPRISES /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           151001                
+                                      BHATINDA              
+ 
+      42                                                 
+
+
+
+|};cD;"VPL202197815";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197830                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     ANKIT ASSOCIATES / An       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           462003                
+                                      BHOPAL                
+ 
+      43                                                 
+
+
+
+|};cD;"VPL202197830";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197831                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GENTS CORNER / Pradee       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           462003                
+                                      BHOPAL                
+ 
+      44                                                 
+
+
+
+|};cD;"VPL202197831";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197832                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     BHEE THRIFT & CREDIT        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           462021                
+                                      BHOPAL                
+ 
+      45                                                 
+
+
+
+|};cD;"VPL202197832";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197833                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     ROOP VARSHA / ANTIM G       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           457001                
+                                      RATLAM                
+ 
+      46                                                 
+
+
+
+|};cD;"VPL202197833";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197834                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     R. R. APPARELS PVT. L       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           452018                
+                                      INDORE                
+ 
+      47                                                 
+
+
+
+|};cD;"VPL202197834";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197835                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     VIJAY CLOTH STORES /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           462001                
+                                      BHOPAL                
+ 
+      48                                                 
+
+
+
+|};cD;"VPL202197835";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197822                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     RAGHAV TEXTILES / Pra       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           753001                
+                                      CUTTACK               
+ 
+      49                                                 
+
+
+
+|};cD;"VPL202197822";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197823                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     VINAYAK INTERNATIONAL       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           781001                
+                                      GUWAHATI              
+ 
+      50                                                 
+
+
+
+|};cD;"VPL202197823";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197819                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHIV TEXTILES / Gagan       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           243601                
+                                      BADAUN                
+ 
+      51                                                 
+
+
+
+|};cD;"VPL202197819";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197794                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     RAMA & SONS / Naresh        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           201204                
+                                      MODINAGAR             
+ 
+      52                                                 
+
+
+
+|};cD;"VPL202197794";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197795                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SANWARIYA FASHION / M       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           451001                
+                                      KHARGAEN              
+ 
+      53                                                 
+
+
+
+|};cD;"VPL202197795";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197796                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     LOHIYA BROTHERS / Ash       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           760001                
+                                      BERHAMPUR             
+ 
+      54                                                 
+
+
+
+|};cD;"VPL202197796";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197797                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     CREATIVE WOOD WORKS /       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           562125                
+                                      BENGALURU             
+ 
+      55                                                 
+
+
+
+|};cD;"VPL202197797";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197798                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SRI VARI / SRINIVASAN       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           635001                
+                                      KRISHNAGIRI           
+ 
+      56                                                 
+
+
+
+|};cD;"VPL202197798";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197799                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     THE CHENNAI SILKS (CM       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           600044                
+                                      CHENNAI               
+ 
+      57                                                 
+
+
+
+|};cD;"VPL202197799";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197788                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     RINA ASSOCIATES / Ami       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           380058                
+                                      AHMEDABAD             
+ 
+      58                                                 
+
+
+
+|};cD;"VPL202197788";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197789                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     RAM JAS RAI ASKARAN D       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           273005                
+                                      GORAKHPUR             
+ 
+      59                                                 
+
+
+
+|};cD;"VPL202197789";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197790                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     R. S. DESIGNER STUDIO       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           244713                
+                                      KASHIPUR              
+ 
+      60                                                 
+
+
+
+|};cD;"VPL202197790";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197791                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     RAJENDRA KUMAR CHOTEL       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           465333                
+                                      SHUJALPUR             
+ 
+      61                                                 
+
+
+
+|};cD;"VPL202197791";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197792                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KANHA CREATION / Om P       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           302020                
+                                      JAIPUR                
+ 
+      62                                                 
+
+
+
+|};cD;"VPL202197792";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197793                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     TAILOR PLUS / Mitesh        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           384001                
+                                      MEHSANA               
+ 
+      63                                                 
+
+
+
+|};cD;"VPL202197793";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197810                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     INDIAN READYMADES / S       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           623504                
+                                      RAMATHAPURAM          
+ 
+      64                                                 
+
+
+
+|};cD;"VPL202197810";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197804                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHREE HAREE / Arvind        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           801302                
+                                      HILSA                 
+ 
+      65                                                 
+
+
+
+|};cD;"VPL202197804";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197805                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHYAM FASHION / Rahul       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           733124                
+                                      GANGARAMPUR           
+ 
+      66                                                 
+
+
+
+|};cD;"VPL202197805";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197806                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SRI DURGA ENTERPRISES       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           520002                
+                                      VIJAYAWADA            
+ 
+      67                                                 
+
+
+
+|};cD;"VPL202197806";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197807                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KUVAM FASHIONS PRIVAT       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           136118                
+                                      KURUKSHETRA           
+ 
+      68                                                 
+
+
+
+|};cD;"VPL202197807";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197808                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PTRB RETAIL VENTURES        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           742225                
+                                      MURSHIDABAD           
+ 
+      69                                                 
+
+
+
+|};cD;"VPL202197808";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197809                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     AABHA SHREE / Rajiv S       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           470002                
+                                      SAGAR                 
+ 
+      70                                                 
+
+
+
+|};cD;"VPL202197809";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197786                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SRI KRISHNA ASSOCIATE       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           571401                
+                                      MANDYA                
+ 
+      71                                                 
+
+
+
+|};cD;"VPL202197786";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197800                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     FABRIC WORLD / Neeles       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           313001                
+                                      UDAIPUR               
+ 
+      72                                                 
+
+
+
+|};cD;"VPL202197800";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197801                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     DIWAN ENTERPRISES / P       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           201204                
+                                      MODINAGAR             
+ 
+      73                                                 
+
+
+
+|};cD;"VPL202197801";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197802                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SUIT STUDIO - A/C. RA       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           500035                
+                                      HYDERABAD             
+ 
+      74                                                 
+
+
+
+|};cD;"VPL202197802";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197803                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHRI RAM FASHION / Sh       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           302003                
+                                      JAIPUR                
+ 
+      75                                                 
+
+
+
+|};cD;"VPL202197803";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197746                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     NAGARMALS / Krishna B       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           802301                
+                                      ARRAH                 
+ 
+      76                                                 
+
+
+
+|};cD;"VPL202197746";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197747                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     A.S. JAJU / Yogesh Ja       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           422605                
+                                      SANGAMNER             
+ 
+      77                                                 
+
+
+
+|};cD;"VPL202197747";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197748                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MOUJKAR SONS / Rajesh       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           431122                
+                                      BEED                  
+ 
+      78                                                 
+
+
+
+|};cD;"VPL202197748";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197749                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GEETA WHOLESALE MART        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           273001                
+                                      GORAKHPUR             
+ 
+      79                                                 
+
+
+
+|};cD;"VPL202197749";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197750                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KAMLA TEXTILES / Anoo       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           302004                
+                                      JAIPUR                
+ 
+      80                                                 
+
+
+
+|};cD;"VPL202197750";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197758                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     FOGLA DURABLES PVT LT       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           834001                
+                                      RANCHI                
+ 
+      81                                                 
+
+
+
+|};cD;"VPL202197758";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197759                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SUJAL ASSOCIATES / Om       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           301001                
+                                      ALWAR                 
+ 
+      82                                                 
+
+
+
+|};cD;"VPL202197759";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197760                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SAMAS / Sama Kishore        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           521001                
+                                      MACHILIPATNAM         
+ 
+      83                                                 
+
+
+
+|};cD;"VPL202197760";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197742                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SREE SUNDARAM / RAKES       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           620003                
+                                      TIRUCHIRAPALLI        
+ 
+      84                                                 
+
+
+
+|};cD;"VPL202197742";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197743                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MUNNA LAL OM PRAKASH        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           206001                
+                                      ETAWAH                
+ 
+      85                                                 
+
+
+
+|};cD;"VPL202197743";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197744                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     ANAND WORLD / Kishor        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           768001                
+                                      SAMBALPUR             
+ 
+      86                                                 
+
+
+
+|};cD;"VPL202197744";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197745                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     DARSHAN / Darshan Lah       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           415002                
+                                      SATARA                
+ 
+      87                                                 
+
+
+
+|};cD;"VPL202197745";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197753                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     BALAJI / Sanjay Kumar       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           824143                
+                                      DAUDNAGAR             
+ 
+      88                                                 
+
+
+
+|};cD;"VPL202197753";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197754                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SRI PREM ENTERPRISES        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           262701                
+                                      LAKHIMPUR-KHEERI      
+ 
+      89                                                 
+
+
+
+|};cD;"VPL202197754";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197755                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MEHRA WOOLENS / RAVI        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           134003                
+                                      AMBALA                
+ 
+      90                                                 
+
+
+
+|};cD;"VPL202197755";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197756                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GOPALA / Uttam Choudh       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           829144                
+                                      PHUSRO                
+ 
+      91                                                 
+
+
+
+|};cD;"VPL202197756";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197757                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     NARMADA FASHIONS / Ve       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           509301                
+                                      JADCHERLA             
+ 
+      92                                                 
+
+
+
+|};cD;"VPL202197757";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197738                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SAGARMAL & SONS LLP /       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           805110                
+                                      NAWADA                
+ 
+      93                                                 
+
+
+
+|};cD;"VPL202197738";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197739                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GAJANAN SUITING SHIRT       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           360311                
+                                      GONDAL                
+ 
+      94                                                 
+
+
+
+|};cD;"VPL202197739";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197740                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHAH & SONS / Hitesh        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           590001                
+                                      BELGAUM               
+ 
+      95                                                 
+
+
+
+|};cD;"VPL202197740";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197741                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MADANLAL BRIJMOHAN &        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           735101                
+                                      JALPAIGURI            
+ 
+      96                                                 
+
+
+
+|};cD;"VPL202197741";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197737                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHEETAL EMPORIUM / De       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           390001                
+                                      VADODARA              
+ 
+      97                                                 
+
+
+
+|};cD;"VPL202197737";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197736                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     NEEL KAMAL VASTRALAYA       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           814133                
+                                      GODDA                 
+ 
+      98                                                 
+
+
+
+|};cD;"VPL202197736";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197751                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MAINA FABRICS / Saura       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           431203                
+                                      JALNA                 
+ 
+      99                                                 
+
+
+
+|};cD;"VPL202197751";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197752                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MAA TARA / Balwant Ku       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           844121                
+                                      LALGANJ               
+ 
+      100                                                
+
+
+
+|};cD;"VPL202197752";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197697                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SATHYAM / ANAND JAIN        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           600017                
+                                      CHENNAI               
+ 
+      101                                                
+
+
+
+|};cD;"VPL202197697";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197696                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     VIJIT CREATIONS / Tan       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           282001                
+                                      AGRA                  
+ 
+      102                                                
+
+
+
+|};cD;"VPL202197696";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197686                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PARAS NX / Walchand         1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           410201                
+                                      KARJAT                
+ 
+      103                                                
+
+
+
+|};cD;"VPL202197686";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197691                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     LILLY'S / NARESH BABU       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           627002                
+                                      PALAYANKOTTAI         
+ 
+      104                                                
+
+
+
+|};cD;"VPL202197691";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197690                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     J.M. TEXTILES & FASHI       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           560040                
+                                      BENGALURU             
+ 
+      105                                                
+
+
+
+|};cD;"VPL202197690";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197689                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     S NALLAPERUMAL AND SO       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           629001                
+                                      NAGARKOIL             
+ 
+      106                                                
+
+
+
+|};cD;"VPL202197689";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197688                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SUIT STUDIO (A/C VISI       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           500003                
+                                      SECUNDERABAD          
+ 
+      107                                                
+
+
+
+|};cD;"VPL202197688";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197687                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHREE HARI / Murari L       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           843302                
+                                      SITAMARHI             
+ 
+      108                                                
+
+
+
+|};cD;"VPL202197687";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197700                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PRIMARC RETAIL STORES       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           221010                
+                                      VARANASI              
+ 
+      109                                                
+
+
+
+|};cD;"VPL202197700";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197701                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KHANNA SONS / Satish        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           263139                
+                                      HALDWANI              
+ 
+      110                                                
+
+
+
+|};cD;"VPL202197701";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197702                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SEEMATI / MRS.BEENA K       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           686001                
+                                      KOTTAYAM              
+ 
+      111                                                
+
+
+
+|};cD;"VPL202197702";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197699                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHRI RAM ASSOCIATES /       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           124001                
+                                      ROHTAK                
+ 
+      112                                                
+
+
+
+|};cD;"VPL202197699";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197698                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     BALAJI SUITINGS / Ank       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           261001                
+                                      SITAPUR               
+ 
+      113                                                
+
+
+
+|};cD;"VPL202197698";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197693                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MANOKAMNA / VAISHRAJ        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           600017                
+                                      CHENNAI               
+ 
+      114                                                
+
+
+
+|};cD;"VPL202197693";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197692                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SIVAM / KAMLESH JAIN        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           620002                
+                                      TIRUCHIRAPALLI        
+ 
+      115                                                
+
+
+
+|};cD;"VPL202197692";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197708                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     NEW BHARAT FANCY CLOT       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           431717                
+                                      DEGLOOR               
+ 
+      116                                                
+
+
+
+|};cD;"VPL202197708";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197706                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     EMKE SILKS / MR.SABEE       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           678014                
+                                      PALAKKAD              
+ 
+      117                                                
+
+
+
+|};cD;"VPL202197706";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197695                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PRIMARC RETAIL STORES       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           814112                
+                                      DEOGHAR               
+ 
+      118                                                
+
+
+
+|};cD;"VPL202197695";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197694                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MANMOHINI FASHION / M       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           731204                
+                                      BOLPUR                
+ 
+      119                                                
+
+
+
+|};cD;"VPL202197694";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197709                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     AGGARWAL AGENCIES / P       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           110055                
+                                      NEW DELHI             
+ 
+      120                                                
+
+
+
+|};cD;"VPL202197709";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197707                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KISHANS ASSOCIATES /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           248001                
+                                      DEHRADUN              
+ 
+      121                                                
+
+
+
+|};cD;"VPL202197707";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197705                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PUJYASHRI A.N. CLOTHI       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           600007                
+                                      CHENNAI               
+ 
+      122                                                
+
+
+
+|};cD;"VPL202197705";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197703                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     ASHAJYOTHI / MRS.JYOT       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           682035                
+                                      ERNAKULAM             
+ 
+      123                                                
+
+
+
+|};cD;"VPL202197703";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197704                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     THE CHENNAI SILKS (TR       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           620002                
+                                      TRICHY                
+ 
+      124                                                
+
+
+
+|};cD;"VPL202197704";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197710                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GEE KAY ENTERPRISES /       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           261001                
+                                      SITAPUR               
+ 
+      125                                                
+
+
+
+|};cD;"VPL202197710";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197860                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHRI SHYAM ASSOCIATES       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           123401                
+                                      REWARI                
+ 
+      126                                                
+
+
+
+|};cD;"VPL202197860";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197861                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     VANDNA SHOW ROOM / HI       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           141008                
+                                      LUDHIANA              
+ 
+      127                                                
+
+
+
+|};cD;"VPL202197861";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197848                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     DOSHI SHASHIKANT CHHA       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           365601                
+                                      AMRELI                
+ 
+      128                                                
+
+
+
+|};cD;"VPL202197848";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197849                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     NILAWAR COLLECTION NX       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           445204                
+                                      PUSAD                 
+ 
+      129                                                
+
+
+
+|};cD;"VPL202197849";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197842                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHREE SHYAMJI FAB / P       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           282005                
+                                      AGRA                  
+ 
+      130                                                
+
+
+
+|};cD;"VPL202197842";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197843                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     DRESS CIRCLE / KAPIL        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           400709                
+                                      NAVI MUMBAI           
+ 
+      131                                                
+
+
+
+|};cD;"VPL202197843";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197845                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     AARON FASHION LLP NAG       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           411030                
+                                      PUNE                  
+ 
+      132                                                
+
+
+
+|};cD;"VPL202197845";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197846                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     NOVELTY CENTRE / PARA       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           243001                
+                                      BAREILLY              
+ 
+      133                                                
+
+
+
+|};cD;"VPL202197846";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197847                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SURYA TEXTILES / Nate       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           508206                
+                                      KODAD                 
+ 
+      134                                                
+
+
+
+|};cD;"VPL202197847";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197854                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MADANLAL AND SONS / R       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           734001                
+                                      SILIGURI              
+ 
+      135                                                
+
+
+
+|};cD;"VPL202197854";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197855                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     RAJESH TEXTILES / Raj       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           462001                
+                                      BHOPAL                
+ 
+      136                                                
+
+
+
+|};cD;"VPL202197855";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197856                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MEHTA CLOTH STORE / M       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           452001                
+                                      INDORE                
+ 
+      137                                                
+
+
+
+|};cD;"VPL202197856";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197857                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     AKSHITHA ENTERPRISE /       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           533001                
+                                      KAKINADA              
+ 
+      138                                                
+
+
+
+|};cD;"VPL202197857";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197858                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     ALL KNOW TRADITIONAL        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           383001                
+                                      HIMMATNAGAR           
+ 
+      139                                                
+
+
+
+|};cD;"VPL202197858";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197859                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     AVM GARMENTS / G.M.UD       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           560054                
+                                      BENGALURU             
+ 
+      140                                                
+
+
+
+|};cD;"VPL202197859";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197676                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GANDHI SELECTIONS (IN       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           110063                
+                                      NEW DELHI             
+ 
+      141                                                
+
+
+
+|};cD;"VPL202197676";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197662                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GANGA SONS / VASANTKU       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           125001                
+                                      HISAR                 
+ 
+      142                                                
+
+
+
+|};cD;"VPL202197662";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197661                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SS FASHIONS / Sujatha       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           560063                
+                                      BANGALORE             
+ 
+      143                                                
+
+
+
+|};cD;"VPL202197661";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197664                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHRI RAM TEXTILES / U       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           302018                
+                                      JAIPUR                
+ 
+      144                                                
+
+
+
+|};cD;"VPL202197664";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197677                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MANSAROVAR / Pradeep        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           713347                
+                                      RANIGANJ              
+ 
+      145                                                
+
+
+
+|};cD;"VPL202197677";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197675                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MAURYA PLATINI / PL S       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           603210                
+                                      CHENNAI               
+ 
+      146                                                
+
+
+
+|};cD;"VPL202197675";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197663                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     RATNARAJ ENTERPRISE /       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           382428                
+                                      GANDHINAGAR           
+ 
+      147                                                
+
+
+
+|};cD;"VPL202197663";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197665                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     RAMDEEP / Ram Avtar         1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           110085                
+                                      DELHI                 
+ 
+      148                                                
+
+
+
+|};cD;"VPL202197665";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197678                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KHUSHI KATARIA TEXTOR       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           110018                
+                                      NEW DEHLI             
+ 
+      149                                                
+
+
+
+|};cD;"VPL202197678";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197666                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KAPUS / Kishor Agrawa       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           440014                
+                                      NAGPUR                
+ 
+      150                                                
+
+
+
+|};cD;"VPL202197666";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197667                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     TSM FASHIONS / Tiruma       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           502220                
+                                      ZAHEERABAD            
+ 
+      151                                                
+
+
+
+|};cD;"VPL202197667";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197668                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     S.K.ENTERPRISES / Kam       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           416115                
+                                      ICHALKARANJI          
+ 
+      152                                                
+
+
+
+|};cD;"VPL202197668";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197669                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     BUJJI FABRICS PVT.LTD       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           533103                
+                                      RAJHAMANDURY          
+ 
+      153                                                
+
+
+
+|};cD;"VPL202197669";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197670                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PARTH ASSOCIATES / MA       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           380060                
+                                      AHMEDABAD             
+ 
+      154                                                
+
+
+
+|};cD;"VPL202197670";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197671                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SAWARIYA CREATIONS /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           785001                
+                                      JORHAT                
+ 
+      155                                                
+
+
+
+|};cD;"VPL202197671";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197679                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHRI DATTA COLLECTION       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           586214                
+                                      TALIKOTI              
+ 
+      156                                                
+
+
+
+|};cD;"VPL202197679";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197680                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     APSARA ENTERPRISES /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           620001                
+                                      TIRUCHIRAPALLI        
+ 
+      157                                                
+
+
+
+|};cD;"VPL202197680";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197681                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GEETA STORES / Harish       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           577202                
+                                      SHIMOGA               
+ 
+      158                                                
+
+
+
+|};cD;"VPL202197681";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197682                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     BAFNA & SONS / Arun B       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           570023                
+                                      MYSORE                
+ 
+      159                                                
+
+
+
+|};cD;"VPL202197682";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197683                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SARATHAS / MUTHAIH          1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           620002                
+                                      TIRUCHIRAPALLI        
+ 
+      160                                                
+
+
+
+|};cD;"VPL202197683";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197684                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SACHINS / GOPAL BAJAJ       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           641012                
+                                      COIMBATORE            
+ 
+      161                                                
+
+
+
+|};cD;"VPL202197684";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197685                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SANGAM TRENDS / Rajat       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           273001                
+                                      GORAKHPUR             
+ 
+      162                                                
+
+
+
+|};cD;"VPL202197685";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197672                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHREEDHAR TRENDS / SH       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           501203                
+                                      SHANKARPALLY          
+ 
+      163                                                
+
+
+
+|};cD;"VPL202197672";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197673                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     COLORS & TONES LLP /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           201301                
+                                      NOIDA                 
+ 
+      164                                                
+
+
+
+|};cD;"VPL202197673";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197674                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SRI SELVA VINAYAGA AG       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           636102                
+                                      ATTUR                 
+ 
+      165                                                
+
+
+
+|};cD;"VPL202197674";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197761                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHREE RAM VASTRALAY /       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           273402                
+                                      BARHALGANJ            
+ 
+      166                                                
+
+
+
+|};cD;"VPL202197761";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197762                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MADHURAM COLLECTION P       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           390015                
+                                      VADODARA              
+ 
+      167                                                
+
+
+
+|};cD;"VPL202197762";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197763                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GYANCHAND JAIN & SONS       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           471001                
+                                      CHHATARPUR            
+ 
+      168                                                
+
+
+
+|};cD;"VPL202197763";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197764                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MAA BHAGWATI / Prem K       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           845101                
+                                      BAGAHA                
+ 
+      169                                                
+
+
+
+|};cD;"VPL202197764";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197765                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     LUCKY DRESSES / Ajay        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           497001                
+                                      AMBIKAPUR             
+ 
+      170                                                
+
+
+
+|};cD;"VPL202197765";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197773                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SAKAAR ENTERPRISES /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           382418                
+                                      AHMEDABAD             
+ 
+      171                                                
+
+
+
+|};cD;"VPL202197773";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197774                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     BASIC CLOTHING PVT.LT       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           110041                
+                                      NEW DELHI             
+ 
+      172                                                
+
+
+
+|};cD;"VPL202197774";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197775                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SAGAR / Bijay Kumar C       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           759001                
+                                      DHENKANAL             
+ 
+      173                                                
+
+
+
+|};cD;"VPL202197775";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197776                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KARACHI GENERAL STORE       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           440001                
+                                      NAGPUR                
+ 
+      174                                                
+
+
+
+|};cD;"VPL202197776";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197777                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GOPAL DAS SARAB DAYAL       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           208001                
+                                      KANPUR                
+ 
+      175                                                
+
+
+
+|};cD;"VPL202197777";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197778                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PRIMARC RETAIL STORES       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           781005                
+                                      GUWAHATI              
+ 
+      176                                                
+
+
+
+|};cD;"VPL202197778";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197766                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     VASDEV BROTHERS / Jit       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           282003                
+                                      AGRA                  
+ 
+      177                                                
+
+
+
+|};cD;"VPL202197766";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197767                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     BRITEX FACILITY MANAG       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           302012                
+                                      JAIPUR                
+ 
+      178                                                
+
+
+
+|};cD;"VPL202197767";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197768                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KUVAM FASHIONS PRIVAT       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           136118                
+                                      SHIMLA                
+ 
+      179                                                
+
+
+
+|};cD;"VPL202197768";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197769                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KUVAM FASHIONS PVT. L       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           141003                
+                                      LUDHIANA              
+ 
+      180                                                
+
+
+
+|};cD;"VPL202197769";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197779                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     RANGOLI EXTENSION / Y       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           505001                
+                                      KARIMNAGAR            
+ 
+      181                                                
+
+
+
+|};cD;"VPL202197779";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197780                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GOLDEN MANDHIR RETAIL       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           636001                
+                                      SALEM                 
+ 
+      182                                                
+
+
+
+|};cD;"VPL202197780";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197781                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MUNOT CLOTH CENTRE /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           431122                
+                                      BEED                  
+ 
+      183                                                
+
+
+
+|};cD;"VPL202197781";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197782                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PRIMARC RETAIL STORES       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           712101                
+                                      CHINSURAH             
+ 
+      184                                                
+
+
+
+|};cD;"VPL202197782";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197783                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     APSARA ENTERPRISES /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           606601                
+                                      TIRUVANNAMALAI        
+ 
+      185                                                
+
+
+
+|};cD;"VPL202197783";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197770                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SELECTION POINT / Fir       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           242001                
+                                      SHAHJAHANPUR          
+ 
+      186                                                
+
+
+
+|};cD;"VPL202197770";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197771                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     VIJIT CREATIONS / Tan       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           282001                
+                                      AGRA                  
+ 
+      187                                                
+
+
+
+|};cD;"VPL202197771";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197772                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     CHANDANA BROTHERS TEX       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           524001                
+                                      NELLORE               
+ 
+      188                                                
+
+
+
+|};cD;"VPL202197772";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197784                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     INTERNATIONAL TRADERS       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           211003                
+                                      ALLAHABAD (PRAYAGRAJ) 
+ 
+      189                                                
+
+
+
+|};cD;"VPL202197784";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197785                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     NIDEESHWARAM AVENUE L       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           411017                
+                                      PUNE                  
+ 
+      190                                                
+
+
+
+|};cD;"VPL202197785";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197655                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     RAINBOW TEXTILES / Pr       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           502103                
+                                      SIDDIPET              
+ 
+      191                                                
+
+
+
+|};cD;"VPL202197655";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197656                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SEEMATI / MRS.BEENA K       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           682035                
+                                      ERNAKULAM             
+ 
+      192                                                
+
+
+
+|};cD;"VPL202197656";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197657                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KRISHNA / ROSHAN NANW       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           605001                
+                                      PONDICHERRY           
+ 
+      193                                                
+
+
+
+|};cD;"VPL202197657";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197658                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     LILLY WHITES GARMENTS       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           629001                
+                                      NAGARKOIL             
+ 
+      194                                                
+
+
+
+|};cD;"VPL202197658";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197659                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     CHENNIAPPA'S / VIVEKA       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           639002                
+                                      KARUR                 
+ 
+      195                                                
+
+
+
+|};cD;"VPL202197659";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197660                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     VR ENTERPRISES / VAIB       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           273303                
+                                      MAHARAJGANJ           
+ 
+      196                                                
+
+
+
+|};cD;"VPL202197660";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197649                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     COMFORT CLOTHING PVT        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           452018                
+                                      INDORE                
+ 
+      197                                                
+
+
+
+|};cD;"VPL202197649";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197650                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     K. M. FASHIONS / Kris       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           500001                
+                                      HYDERABAD             
+ 
+      198                                                
+
+
+
+|};cD;"VPL202197650";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197651                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SRIRAM APPAREL / Mohi       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           121003                
+                                      FARIDABAD             
+ 
+      199                                                
+
+
+
+|};cD;"VPL202197651";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197652                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     NAMPALLI ENTERPRISES        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           431512                
+                                      BASMATH NAGAR         
+ 
+      200                                                
+
+
+
+|};cD;"VPL202197652";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197641                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     B P ENTERPRISES / MUR       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           803302                
+                                      MOKAMA                
+ 
+      201                                                
+
+
+
+|};cD;"VPL202197641";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197636                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SOUTHEND EXTENSION /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           500029                
+                                      HYDERABAD             
+ 
+      202                                                
+
+
+
+|};cD;"VPL202197636";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197637                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KAMLA VASTRA BHANDAR        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           333026                
+                                      CHIRAWA               
+ 
+      203                                                
+
+
+
+|};cD;"VPL202197637";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197638                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     LAVISH CREATION / LAV       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           380004                
+                                      AHMEDABAD             
+ 
+      204                                                
+
+
+
+|};cD;"VPL202197638";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197639                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SAAKAR LIFESTYLE / KA       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           382330                
+                                      AHMEDABAD             
+ 
+      205                                                
+
+
+
+|};cD;"VPL202197639";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197640                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     J. K. EXCLUSIVE / SUN       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           461111                
+                                      ITARSI                
+ 
+      206                                                
+
+
+
+|};cD;"VPL202197640";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197642                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     D L FASHION / DHARMEN       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           334803                
+                                      NOKHA                 
+ 
+      207                                                
+
+
+
+|};cD;"VPL202197642";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197643                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     AVENUE APPARELS / BIN       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           670102                
+                                      THALASSERY            
+ 
+      208                                                
+
+
+
+|};cD;"VPL202197643";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197644                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     WINCOM SALES PVT LTD        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           802119                
+                                      DUMRAON               
+ 
+      209                                                
+
+
+
+|};cD;"VPL202197644";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197645                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SULTANIA BROTHERS / S       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           847223                
+                                      BENIPATTI             
+ 
+      210                                                
+
+
+
+|};cD;"VPL202197645";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197646                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     VS RETAILS / L. VISHN       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           504208                
+                                      MANCHERIAL            
+ 
+      211                                                
+
+
+
+|};cD;"VPL202197646";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197647                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PRADEEP CLOTH EMPORIU       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           126116                
+                                      NARWANA               
+ 
+      212                                                
+
+
+
+|};cD;"VPL202197647";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197648                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHAH COLLECTION / KAM       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           413101                
+                                      SOLAPUR               
+ 
+      213                                                
+
+
+
+|};cD;"VPL202197648";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197653                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     TOWN FAB / Madan Kuma       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           273001                
+                                      GORAKHPUR             
+ 
+      214                                                
+
+
+
+|};cD;"VPL202197653";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197654                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PRAKASH COMUNICATION        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           274304                
+                                      PADRAUNA              
+ 
+      215                                                
+
+
+
+|};cD;"VPL202197654";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197624                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     JANVI ENTERPRISE / Pr       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           209801                
+                                      UNNAO                 
+ 
+      216                                                
+
+
+
+|};cD;"VPL202197624";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197625                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     S V FASHIONS / Venugo       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           500039                
+                                      HYDERABAD             
+ 
+      217                                                
+
+
+
+|};cD;"VPL202197625";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197626                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     INDIGO FASHIONS / Man       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           201301                
+                                      NOIDA                 
+ 
+      218                                                
+
+
+
+|};cD;"VPL202197626";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197627                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     9 COLOURS / KARAN KOD       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           412307                
+                                      PUNE                  
+ 
+      219                                                
+
+
+
+|};cD;"VPL202197627";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197633                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     HARYANA TAILORS & DRA       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           123029                
+                                      MAHENDERGARH          
+ 
+      220                                                
+
+
+
+|};cD;"VPL202197633";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197634                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     ARYA AGENCIES / Vishw       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           132001                
+                                      KARNAL                
+ 
+      221                                                
+
+
+
+|};cD;"VPL202197634";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197635                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     TEJAS APPAREL / SHADA       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           600053                
+                                      CHENNAI               
+ 
+      222                                                
+
+
+
+|};cD;"VPL202197635";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197611                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PRASHAR ENTERPRISES /       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           121102                
+                                      PALWAL                
+ 
+      223                                                
+
+
+
+|};cD;"VPL202197611";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197616                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     CHAMPALAL AGENCIES PV       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           221001                
+                                      VARANASI              
+ 
+      224                                                
+
+
+
+|};cD;"VPL202197616";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197617                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHREE NARAYAN ENTERPR       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           382715                
+                                      KADI                  
+ 
+      225                                                
+
+
+
+|};cD;"VPL202197617";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197618                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     C.C.PATEL & CO. / Hit       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           389350                
+                                      HALOL                 
+ 
+      226                                                
+
+
+
+|};cD;"VPL202197618";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197619                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     AMK CREATIONS / Mukes       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           122002                
+                                      GURUGRAM              
+ 
+      227                                                
+
+
+
+|};cD;"VPL202197619";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197612                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SWADESHI KHADI TRADER       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           202001                
+                                      ALIGARH               
+ 
+      228                                                
+
+
+
+|};cD;"VPL202197612";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197613                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PRIMARC RETAIL STORES       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           700001                
+                                      KOLKATA               
+ 
+      229                                                
+
+
+
+|};cD;"VPL202197613";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197614                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PRAMUKH EXECUTIVE / M       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           383315                
+                                      MODASA                
+ 
+      230                                                
+
+
+
+|};cD;"VPL202197614";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197615                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     RAM HANDLOOM / Anuj G       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           228001                
+                                      SULTANPUR             
+ 
+      231                                                
+
+
+
+|};cD;"VPL202197615";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197628                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     AMA TRADERS / Col Muk       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           301019                
+                                      BHIWADI               
+ 
+      232                                                
+
+
+
+|};cD;"VPL202197628";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197629                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     AMARSON / VISHAL            1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           641012                
+                                      COIMBATORE            
+ 
+      233                                                
+
+
+
+|};cD;"VPL202197629";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197630                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHREE AMBIKA ENTERPRI       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           382721                
+                                      KALOL                 
+ 
+      234                                                
+
+
+
+|};cD;"VPL202197630";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197631                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MUPPIRIS TEXTILES / C       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           517001                
+                                      CHITTOOR              
+ 
+      235                                                
+
+
+
+|};cD;"VPL202197631";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197632                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     LATEST GARMENTS / Fai       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           243001                
+                                      BAREILLY              
+ 
+      236                                                
+
+
+
+|};cD;"VPL202197632";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197620                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHREE SHYAM MARKETING       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           734001                
+                                      SILIGURI              
+ 
+      237                                                
+
+
+
+|};cD;"VPL202197620";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197621                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     R D TEXTILES / Shubha       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           452002                
+                                      INDORE                
+ 
+      238                                                
+
+
+
+|};cD;"VPL202197621";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197622                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     RADHA KRISHNA FIRAYAL       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           834002                
+                                      RANCHI                
+ 
+      239                                                
+
+
+
+|};cD;"VPL202197622";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197623                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     BIJAY ENTERPRISES / K       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           815353                
+                                      MADHUPUR              
+ 
+      240                                                
+
+
+
+|};cD;"VPL202197623";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197592                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MADAN TEXTILES STG. /       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           700007                
+                                      KOLKATA               
+ 
+      241                                                
+
+
+
+|};cD;"VPL202197592";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197593                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     CHUNILAL RAMNARAYAN &       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           721101                
+                                      MIDNAPORE             
+ 
+      242                                                
+
+
+
+|};cD;"VPL202197593";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197594                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHUB LABH PROJECTS PV       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           700029                
+                                      KOLKATA               
+ 
+      243                                                
+
+
+
+|};cD;"VPL202197594";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197595                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     E.M. ESMAIL & CO / Ma       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           700013                
+                                      KOLKATA               
+ 
+      244                                                
+
+
+
+|};cD;"VPL202197595";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197596                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MOHAN CLOTH STORES /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           713301                
+                                      ASANSOL               
+ 
+      245                                                
+
+
+
+|};cD;"VPL202197596";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197597                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     ARPIT / Arpit Sen           1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           700054                
+                                      KOLKATA               
+ 
+      246                                                
+
+
+
+|};cD;"VPL202197597";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197606                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KHUSH FASION / Mr. Mu       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           483501                
+                                      KATNI                 
+ 
+      247                                                
+
+
+
+|};cD;"VPL202197606";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197607                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SAURABH ENTERPRISES /       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           283203                
+                                      FIROZABAD             
+ 
+      248                                                
+
+
+
+|};cD;"VPL202197607";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197608                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KANNAWAR ENTERPRISES        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           431602                
+                                      NANDED                
+ 
+      249                                                
+
+
+
+|};cD;"VPL202197608";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197609                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MODI COLLECTION / Sur       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           759122                
+                                      ANGUL                 
+ 
+      250                                                
+
+
+
+|};cD;"VPL202197609";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197610                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GAHNA FASHION / Kisho       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           206001                
+                                      ETAWAH                
+ 
+      251                                                
+
+
+
+|};cD;"VPL202197610";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197586                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MOHAMEDALI GOOLAMALI        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           700001                
+                                      KOLKATA               
+ 
+      252                                                
+
+
+
+|};cD;"VPL202197586";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197587                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     B.S.HOUSE / Sandeep A       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           700007                
+                                      KOLKATA               
+ 
+      253                                                
+
+
+
+|};cD;"VPL202197587";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197588                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PODDAR'S / Mahesh Pod       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           700001                
+                                      KOLKATA               
+ 
+      254                                                
+
+
+
+|};cD;"VPL202197588";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197589                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     CHITRAKOOT / Vinod Sh       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           700007                
+                                      KOLKATA               
+ 
+      255                                                
+
+
+
+|};cD;"VPL202197589";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197590                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PUSHPAK / Nandkishor        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           444001                
+                                      AKOLA                 
+ 
+      256                                                
+
+
+
+|};cD;"VPL202197590";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197591                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     RAJ COLLECTION / Atul       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           422101                
+                                      NASHIK                
+ 
+      257                                                
+
+
+
+|};cD;"VPL202197591";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197601                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHRI RAM TEXTILES / A       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           282002                
+                                      AGRA                  
+ 
+      258                                                
+
+
+
+|};cD;"VPL202197601";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197602                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     AKASHDEEP / VARUN KAP       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           246174                
+                                      SRINAGAR GARHWAL      
+ 
+      259                                                
+
+
+
+|};cD;"VPL202197602";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197603                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SRI KARAN TEXTILES /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           572101                
+                                      TUMKUR                
+ 
+      260                                                
+
+
+
+|};cD;"VPL202197603";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197604                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SUMANTH FASHIONS / NA       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           521137                
+                                      PORANKI               
+ 
+      261                                                
+
+
+
+|};cD;"VPL202197604";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197605                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     TULSI COLLECTION / SA       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           431509                
+                                      JINTUR                
+ 
+      262                                                
+
+
+
+|};cD;"VPL202197605";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197599                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     HBP SAXENA & COMPANY        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           243001                
+                                      BAREILLY              
+ 
+      263                                                
+
+
+
+|};cD;"VPL202197599";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197598                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     APSARA NX / ANKEET AG       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           768028                
+                                      BARGARH               
+ 
+      264                                                
+
+
+
+|};cD;"VPL202197598";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197600                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GULATI & SONS / SUMIT       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           124001                
+                                      ROHTAK                
+ 
+      265                                                
+
+
+
+|};cD;"VPL202197600";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197561                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GOLDEN MANDHIR RETAIL       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           637211                
+                                      THIRUCHENGODE         
+ 
+      266                                                
+
+
+
+|};cD;"VPL202197561";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197562                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     VISHNU SALES & SUPPLI       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           474011                
+                                      GWALIOR               
+ 
+      267                                                
+
+
+
+|};cD;"VPL202197562";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197575                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GANPATI TRADING COMPA       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           344001                
+                                      BARMER                
+ 
+      268                                                
+
+
+
+|};cD;"VPL202197575";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197576                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SARGO ENTERPRISES UNI       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           440015                
+                                      NAGPUR                
+ 
+      269                                                
+
+
+
+|};cD;"VPL202197576";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197577                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     U V TEXTILES / MAHEND       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           577004                
+                                      DAVANGERE             
+ 
+      270                                                
+
+
+
+|};cD;"VPL202197577";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197578                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     RAJ CLOTH STORES / Vi       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           431001                
+                                      AURANGABAD            
+ 
+      271                                                
+
+
+
+|};cD;"VPL202197578";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197579                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SURESH COLLECTIONS /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           425001                
+                                      JALGAON               
+ 
+      272                                                
+
+
+
+|};cD;"VPL202197579";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197580                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     NAVJEEVAN COLLECTIONS       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           425001                
+                                      JALGAON               
+ 
+      273                                                
+
+
+
+|};cD;"VPL202197580";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197581                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     DILIP RAGHUNATH BEDRE       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           413517                
+                                      UDGIR                 
+ 
+      274                                                
+
+
+
+|};cD;"VPL202197581";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197582                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     VIJAY CLOTH CENTRE /        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           431601                
+                                      NANDED                
+ 
+      275                                                
+
+
+
+|};cD;"VPL202197582";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197583                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     VIJAY KAPAD DUKAN / V       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           424101                
+                                      CHALISGAON            
+ 
+      276                                                
+
+
+
+|};cD;"VPL202197583";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197564                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHRI GANPATI SUITINGS       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           493773                
+                                      DHAMTARI              
+ 
+      277                                                
+
+
+
+|};cD;"VPL202197564";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197565                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     PRINCE TEXTILES / RAJ       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           734001                
+                                      SILIGURI              
+ 
+      278                                                
+
+
+
+|};cD;"VPL202197565";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197566                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     B.D.KOKADWAR NX / MAN       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           431509                
+                                      JINTUR                
+ 
+      279                                                
+
+
+
+|};cD;"VPL202197566";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197567                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KHATTOOMAL AND SONS /       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           226005                
+                                      LUCKNOW               
+ 
+      280                                                
+
+
+
+|};cD;"VPL202197567";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197584                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     DULHA DULHAN FABRICS        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           431001                
+                                      AURANGABAD            
+ 
+      281                                                
+
+
+
+|};cD;"VPL202197584";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197585                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SAJAN SARITA / Vijay        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           431001                
+                                      AURANGABAD            
+ 
+      282                                                
+
+
+
+|};cD;"VPL202197585";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197571                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SRI VENKATESWARA TEXT       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           530026                
+                                      VISAKHAPATAM          
+ 
+      283                                                
+
+
+
+|};cD;"VPL202197571";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197572                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SUMANTH FASHIONS / NA       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           533201                
+                                      AMALAPURAM            
+ 
+      284                                                
+
+
+
+|};cD;"VPL202197572";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197573                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     VAR VADHU COLLECTION        1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           486889                
+                                      MORWA                 
+ 
+      285                                                
+
+
+
+|};cD;"VPL202197573";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197574                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     AGGRAWAL SHOPPING MAL       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           846004                
+                                      DARBHANGA             
+ 
+      286                                                
+
+
+
+|};cD;"VPL202197574";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197568                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     MAAN SAROVAR / ANUP K       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           816109                
+                                      SAHIBGANJ             
+ 
+      287                                                
+
+
+
+|};cD;"VPL202197568";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197569                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     VINDHYAWASINI FASHION       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           272207                
+                                      SIDDHARTHNAGAR        
+ 
+      288                                                
+
+
+
+|};cD;"VPL202197569";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197570                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     AMBIKA ENTERPRISES UN       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           151001                
+                                      BHATINDA              
+ 
+      289                                                
+
+
+
+|};cD;"VPL202197570";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197837                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SANJEEV KUMAR GUPTA &       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           180001                
+                                      JAMMU                 
+ 
+      290                                                
+
+
+
+|};cD;"VPL202197837";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197838                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SATYAM TEXTILES & GAR       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           384315                
+                                      VISNAGAR              
+ 
+      291                                                
+
+
+
+|};cD;"VPL202197838";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197839                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     NEO APPARELS / Rajesh       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           302018                
+                                      JAIPUR                
+ 
+      292                                                
+
+
+
+|};cD;"VPL202197839";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197840                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     ANAND NX / Mayankh          1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           400071                
+                                      MUMBAI                
+ 
+      293                                                
+
+
+
+|};cD;"VPL202197840";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197841                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GANPATI APPARELS / Ni       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           122017                
+                                      GURUGRAM              
+ 
+      294                                                
+
+
+
+|};cD;"VPL202197841";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197836                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHIV ENTERPRISE / Jay       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           385535                
+                                      DEESA                 
+ 
+      295                                                
+
+
+
+|};cD;"VPL202197836";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197850                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     R. PRABHUDAS / Maulik       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           380001                
+                                      AHMEDABAD             
+ 
+      296                                                
+
+
+
+|};cD;"VPL202197850";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197851                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     SHREE MANGLAM FASHION       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           243001                
+                                      BAREILLY              
+ 
+      297                                                
+
+
+
+|};cD;"VPL202197851";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197852                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     KALA NIKETAN / Rajesh       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           146001                
+                                      HOSHIARPUR            
+ 
+      298                                                
+
+
+
+|};cD;"VPL202197852";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     202197853                                 30/04/22 
+                                                                
+      RAYMOND-CMR                     GAURAV VASTRALAYA / G       1     
+      THANE (VARTAK NAGAR)                                        0.1   
+      THANE                           262701                
+                                      LAKHIMPUR KHERI       
+ 
+      299                                                
+
+
+
+|};cD;"VPL202197853";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+

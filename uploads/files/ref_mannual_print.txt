@@ -1,0 +1,1224 @@
+                     200585174                                 18/09/19 
+                                                                
+      AXIS BANK- DP                   PAWAR  RAJENDRAS            1     
+      DADAR MUM-28                                                0.1   
+      MUMBAI                          421306                
+                                      KALYAN MAHARASHTRA    
+ 
+      17479291                                           
+
+
+
+|};cD;"VPL200585174";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     200621833                                 19/09/19 
+                                                                
+      AXIS BANK- DP                   ANISH KUMAR K P             1     
+      DADAR MUM-28                                                0.1   
+      MUMBAI                          673012                
+                                      KERALA                
+ 
+      17479550                                           
+
+
+
+|};cD;"VPL200621833";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     200566208                                 16/09/19 
+                                                                
+      AXIS BANK- DP                   SANTOSH  PAL                1     
+      DADAR MUM-28                                                0.1   
+      MUMBAI                          400079                
+                                      MUMBAI MAHARASHTRA    
+ 
+      17494419                                           
+
+
+
+|};cD;"VPL200566208";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     200569655                                 17/09/19 
+                                                                
+      AXIS BANK- DP                   CHETNA BHARATKUMAR SH       1     
+      DADAR MUM-28                                                0.1   
+      MUMBAI                          400101                
+                                      MUMBAI MAHARASHTRA    
+ 
+      17494525                                           
+
+
+
+|};cD;"VPL200569655";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     200578847                                 17/09/19 
+                                                                
+      AXIS BANK- DP                   RAJU GURU VENKAT            1     
+      DADAR MUM-28                                                0.1   
+      MUMBAI                          411015                
+                                      PUNE MAHARASHTRA      
+ 
+      17511829                                           
+
+
+
+|};cD;"VPL200578847";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232696                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              M/S A S ENTERPRISES         1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          759122                
+                                      ANGUL                 
+ 
+      17511852                                           
+
+
+
+|};cD;"VPL329232696";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232697                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              CHUNNILAL LALLUBHAI M       1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          802101                
+                                      BUXAR                 
+ 
+      17511853                                           
+
+
+
+|};cD;"VPL329232697";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232698                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              AURO DIAM EXPORTS           1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          380015                
+                                      AHMEDABAD             
+ 
+      17511854                                           
+
+
+
+|};cD;"VPL329232698";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232699                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              RATNAVALI ARTS              1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          302002                
+                                      JAIPUR                
+ 
+      17511855                                           
+
+
+
+|};cD;"VPL329232699";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232700                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              SHREE BALKRISHNA JEWE       1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          361008                
+                                      JAMNAGAR              
+ 
+      17511856                                           
+
+
+
+|};cD;"VPL329232700";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232701                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              SRINIVASA JEWELLERS         1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          561202                
+                                      TUMKUR                
+ 
+      17511857                                           
+
+
+
+|};cD;"VPL329232701";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232741                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              MEHZABIN DOHADWALA          1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          400049                
+                                      MUMBAI                
+ 
+      17511873                                           
+
+
+
+|};cD;"VPL329232741";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232740                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              RAJIB BANERJEE AND AR       1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          721401                
+                                      EAST MIDNAPORE        
+ 
+      17511874                                           
+
+
+
+|};cD;"VPL329232740";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232739                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              WESTERN TRADERS             1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          700073                
+                                      KOLKATA               
+ 
+      17511875                                           
+
+
+
+|};cD;"VPL329232739";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232738                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              MRS. SAVITA SHARMA, A       1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          382424                
+                                      GANDHI NAGAR          
+ 
+      17511876                                           
+
+
+
+|};cD;"VPL329232738";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232737                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              BABITA SAHEBRAO CHAUD       1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          425001                
+                                      JALGAON               
+ 
+      17511877                                           
+
+
+
+|};cD;"VPL329232737";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232736                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              ARATI SINGH                 1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          712235                
+                                      HOOGHLY               
+ 
+      17511878                                           
+
+
+
+|};cD;"VPL329232736";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232735                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              WHITE-TONE MICRON PVT       1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          363670                
+                                      RAJKOT                
+ 
+      17511879                                           
+
+
+
+|};cD;"VPL329232735";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232734                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              TNW INTERNATIONAL PVT       1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          110088                
+                                      NEW DELHI             
+ 
+      17511880                                           
+
+
+
+|};cD;"VPL329232734";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232733                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              JIYA SAREES                 1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          395006                
+                                      SURAT                 
+ 
+      17511881                                           
+
+
+
+|};cD;"VPL329232733";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232732                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              SHARDA COOPERATIVE HO       1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          400020                
+                                      MUMBAI                
+ 
+      17511882                                           
+
+
+
+|};cD;"VPL329232732";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232731                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              MAHESHWARI RAMESHKUMA       1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          391135                
+                                      VADODARA              
+ 
+      17511883                                           
+
+
+
+|};cD;"VPL329232731";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232730                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              SHREE DURGA FLEXIPACK       1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          387630                
+                                      KHEDA                 
+ 
+      17511884                                           
+
+
+
+|};cD;"VPL329232730";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232729                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              JAY TEXTILES PROP JIT       1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          421302                
+                                      THANE                 
+ 
+      17511885                                           
+
+
+
+|};cD;"VPL329232729";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232728                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              MUKESH NAGAR CO OPERA       1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          400604                
+                                      THANE                 
+ 
+      17511886                                           
+
+
+
+|};cD;"VPL329232728";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232727                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              NEO PLAST ENGINEERING       1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          382445                
+                                      AHMEDABAD             
+ 
+      17511887                                           
+
+
+
+|};cD;"VPL329232727";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232726                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              VAIBHAV TEXTILES            1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          395006                
+                                      SURAT                 
+ 
+      17511888                                           
+
+
+
+|};cD;"VPL329232726";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232725                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              MS CHIRAG SANITATION        1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          452001                
+                                      INDORE                
+ 
+      17511889                                           
+
+
+
+|};cD;"VPL329232725";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232723                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              CYRUS AVENUE PREMISES       1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          400008                
+                                      MUMBAI                
+ 
+      17511890                                           
+
+
+
+|};cD;"VPL329232723";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232682                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              BRIJ BHAN AC 12-242         1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          142001                
+                                      MOGA                  
+ 
+      17511919                                           
+
+
+
+|};cD;"VPL329232682";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232684                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              ATHENA BPO PVT LTD          1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          400072                
+                                      MUMBAI                
+ 
+      17511920                                           
+
+
+
+|};cD;"VPL329232684";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232685                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              IRFAN J SANGHAR             1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          361310                
+                                      JAMNAGAR              
+ 
+      17511921                                           
+
+
+
+|};cD;"VPL329232685";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232686                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              MEHZABIN DOHADWALA          1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          400049                
+                                      MUMBAI                
+ 
+      17511922                                           
+
+
+
+|};cD;"VPL329232686";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232687                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              YASMIN KURESH ZAVERI        1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          600010                
+                                      CHENNAI               
+ 
+      17511923                                           
+
+
+
+|};cD;"VPL329232687";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232688                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              ASHOK AGENCIES              1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          560002                
+                                      BANGALORE             
+ 
+      17511924                                           
+
+
+
+|};cD;"VPL329232688";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232689                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              AJIT SINGH S0 GURCHAR       1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          142001                
+                                      MOGA                  
+ 
+      17511925                                           
+
+
+
+|};cD;"VPL329232689";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232690                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              S.R. SOLUTIONS              1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          110019                
+                                      NEW DELHI             
+ 
+      17511926                                           
+
+
+
+|};cD;"VPL329232690";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232692                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              SANDEEP PURI (INDIAN        1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          110034                
+                                      NEW DELHI             
+ 
+      17511928                                           
+
+
+
+|};cD;"VPL329232692";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232693                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              STUDENT POINT AC12-25       1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          142001                
+                                      MOGA                  
+ 
+      17511929                                           
+
+
+
+|};cD;"VPL329232693";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232694                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              VARINDER JIT KAR DO T       1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          142001                
+                                      MOGA                  
+ 
+      17511930                                           
+
+
+
+|};cD;"VPL329232694";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     329232695                                 28/09/19 
+                                                                
+      ICICI  LOMBARD....              SARBJIT KAUR WO AMAR        1     
+      CHAKALA MUM-99                                              0.1   
+      GST IN.27AABPC7090D1Z2          142001                
+                                      MOGA                  
+ 
+      17511931                                           
+
+
+
+|};cD;"VPL329232695";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     491741285                                 10/10/19 
+                                                                
+      KOTAK GENERAL INSURANCE         VADLA GOPAL                 1     
+      GOREGAON-E (GDM)                                            0.1   
+      MUM - 63                        503187                
+                                      ANDHRA PRADESH        
+ 
+      1102173800                                         
+
+
+
+|};cD;"VPL491741285";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     491741293                                 10/10/19 
+                                                                
+      KOTAK GENERAL INSURANCE         SAMEER ARVIND KALE          1     
+      GOREGAON-E (GDM)                                            0.1   
+      MUM - 63                        500090                
+                                      RANGA REDDY           
+ 
+      1102174500                                         
+
+
+
+|};cD;"VPL491741293";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     491741290                                 10/10/19 
+                                                                
+      KOTAK GENERAL INSURANCE         ALLAM KRISHNAKANTH          1     
+      GOREGAON-E (GDM)                                            0.1   
+      MUM - 63                        500098                
+                                      RANGA REDDY           
+ 
+      1102177000                                         
+
+
+
+|};cD;"VPL491741290";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     491741288                                 10/10/19 
+                                                                
+      KOTAK GENERAL INSURANCE         PALU SUDERSHAN              1     
+      GOREGAON-E (GDM)                                            0.1   
+      MUM - 63                        500092                
+                                      RANGA REDDY           
+ 
+      1102178200                                         
+
+
+
+|};cD;"VPL491741288";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     491741294                                 10/10/19 
+                                                                
+      KOTAK GENERAL INSURANCE         TALLAPELLI PRASHANTH        1     
+      GOREGAON-E (GDM)                                            0.1   
+      MUM - 63                        500082                
+                                      HYDERABAD             
+ 
+      1102181000                                         
+
+
+
+|};cD;"VPL491741294";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     491741295                                 10/10/19 
+                                                                
+      KOTAK GENERAL INSURANCE         POTU SAI KIRAN              1     
+      GOREGAON-E (GDM)                                            0.1   
+      MUM - 63                        500082                
+                                      HYDERABAD             
+ 
+      1102188900                                         
+
+
+
+|};cD;"VPL491741295";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     741291                                    10/10/19 
+                                                                
+      KOTAK GENERAL INSURANCE         BANDEWAR SHIVA              1     
+      GOREGAON-E (GDM)                                            0.1   
+      MUM - 63                        500082                
+                                      HYDERABAD             
+ 
+      1102189700                                         
+
+
+
+|};cD;"VPL741291";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     491741286                                 10/10/19 
+                                                                
+      KOTAK GENERAL INSURANCE         CHINTALA PALLY GANGA        1     
+      GOREGAON-E (GDM)                                            0.1   
+      MUM - 63                        503175                
+                                      ANDHRA PRADESH        
+ 
+      1102305900                                         
+
+
+
+|};cD;"VPL491741286";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     491741299                                 10/10/19 
+                                                                
+      KOTAK GENERAL INSURANCE         KRYSTAL LITES               1     
+      GOREGAON-E (GDM)                                            0.1   
+      MUM - 63                        411017                
+                                      PIMPRI GAON           
+ 
+      410201950                                          
+
+
+
+|};cD;"VPL491741299";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
+                     491741300                                 10/10/19 
+                                                                
+      KOTAK GENERAL INSURANCE         J K ENTERPRISE              1     
+      GOREGAON-E (GDM)                                            0.1   
+      MUM - 63                        395004                
+                                      SURAT                 
+ 
+      410201952                                          
+
+
+
+|};cD;"VPL491741300";N0;0001;0002;H04;D
+
+
+
+
+
+
+
+
+
+
+
+
