@@ -94,10 +94,7 @@
             }
             ?>
             <form class="form-horizontal style-form" name="form2" method="POST">
-
-                <button type="submit" name="single_booking" class="btn btn-primary pull-right"  
-				onclick="$('#loading').show();" style=" margin: 11px 6px;">+ Save</button>
-
+                
                 <div class="row mb">
                     <!-- page start-->
                     <div class="col-lg-12">
@@ -310,6 +307,8 @@
                                                ?>">
                                     </div>
                                 </div>
+                                <button type="submit" name="single_booking" class="btn btn-primary pull-right"  
+				                onclick="$('#loading').show();" style=" margin: 11px 6px;">+ Save</button>
                             </div>
 							
                         </div>
